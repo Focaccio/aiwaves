@@ -1,0 +1,2 @@
+dual nexus vpc DCI peer l2 po with another vpc pair
+with https://claude.site/artifacts/fc45cc60-c9b4-4dae-aa11-fe8a19163af2
